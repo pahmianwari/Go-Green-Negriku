@@ -1,0 +1,118 @@
+/* body{
+    margin: 0;
+    padding: 0;
+    background: linear-gradient(180deg, #2193B0 0%, #6DD5ED 100%);
+    height: 100vh;font-family: sans-serif;
+    background-size: cover;
+    background-repeat: no-repeat;background-position: center;
+    overflow: hidden
+}
+.loginBox{
+    position: absolute;
+    top: 55%;
+    left: 1040px;
+    transform: translate(-50%,-50%);
+    width: 400px;
+    height: 430px;
+    min-height: 200px;
+    background: linear-gradient(180deg, #1E3C72 0%, #2A5298 100%);
+    border-radius: 10px;
+    padding: 40px;
+    box-sizing: border-box
+}
+p{
+    color: #fffdfd;
+}
+.loginBox input{
+    width: 100%;
+    margin-bottom: 20px
+}
+.loginBox input[type="text"], .loginBox input[type="password"]{
+    
+    border-bottom: 2px solid #f6f0f0;
+    outline: none;
+    text-align: center;
+    height: 40px;
+    color: #fff;
+    background: white;
+    font-size: 16px;
+    padding-left: 20px;
+    border-radius: 20px;
+    
+}
+select{
+    border-bottom: 2px;
+    outline: none;
+    text-align: center;
+    height: 40px;
+    font-size: 16px;
+    padding-left: 20px;
+    border-radius: 20px;
+}
+.loginBox input[type="text"]:hover, .loginBox input[type="password"]:hover, .inputBox select[type="select"]:hover{
+    color: #000000;
+    border: 1px solid #42F3FA;
+    box-shadow: 0 0 5px rgba(0,255,0,.3), 0 0 10px rgba(0,255,0,.2), 0 0 15px rgba(0,255,0,.1), 0 2px 0 black
+}
+.inputBox{
+    position: relative
+}
+.loginBox [type="submit"]{
+    border: none;
+    outline: none;
+    width: 110px;
+    height: 30px;
+    font-size: 16px;
+    background: linear-gradient(135deg, #C8E97C 0%, #5FB828 100%);
+    color: rgb(10, 10, 10);
+    border-radius: 20px;
+    cursor: pointer;
+    position: relative;
+    left: 110px;
+    top: 60px;
+}
+.k{
+    position: relative;
+    left: 1160px;
+    color: white;
+    top: 10px;
+}
+h5{
+    color: white;
+}
+.p{
+    position: relative;
+    top: 60px;
+}
+a{
+    position: relative;
+    top: 19px;
+    left: 215px;
+    color: white;
+}
+
+.imgl{
+    position: relative;
+    bottom: 100px;
+    left: 50px;
+}
+.w{
+    position: relative;
+    right: 80px;
+    top: 300px;
+}
+.t{
+    position: relative;
+    bottom: 150px;
+    left: 50px;
+}
+.ks{
+    position: relative;
+    bottom: 380px;
+    right: 390px;
+}
+.ls{
+    position: relative;
+    bottom: 380px;
+    right: 265px;
+} */
